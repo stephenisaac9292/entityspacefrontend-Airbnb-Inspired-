@@ -8,8 +8,8 @@ const Logo = () => {
             <Image 
                 src="/entityLogo.svg"
                 alt ="Entity Space logo"
-                width={165}
-                height={165}
+                width={110}
+                height={110}
             />
         </Link>
   )
