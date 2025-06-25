@@ -39,12 +39,15 @@ const SearchFilter = () => {
         <p className='text-sm text-gray-600 '>Add guests</p>
 
     </div>
+
+    {/* 5 */}
     <div className="absolute right-2 top-1/2 -translate-y-1/2 
                     w-12 h-12 bg-entityspace text-white rounded-full 
                       flex items-center justify-center 
-                      hover:bg-red-600 cursor-pointer transition">
+                      hover:bg-red-600 cursor-pointer transition"
+    >
         
-      </div>
+    </div>
    
     
 </div>
